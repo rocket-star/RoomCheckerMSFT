@@ -20,7 +20,7 @@
         "botbuilder-dialogs": "~4.8.0",
         "dotenv": "^8.2.0",
         "fetch-ponyfill": "^6.1.0",
-        "moment": "^2.24.0",
+        "moment": "^2.29.2",
         "mongoose": "^5.9.7",
         "path": "^0.12.7",
         "restify": "^8.4.1"
